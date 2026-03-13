@@ -54,5 +54,5 @@ The application is built using Streamlit for the interface and uses HTTP request
 Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/trackgram.git
-cd trackgram
+git clone https://github.com/sushant0607/TrackGram_MajorProject.git
+cd TrackGram_MajorProject
